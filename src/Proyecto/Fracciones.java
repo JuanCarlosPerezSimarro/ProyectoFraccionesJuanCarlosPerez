@@ -4,6 +4,7 @@ public class Fracciones {
     private int numerador;
     private int denominador;
 
+    /******************************************************Programando suma de fracciones*****************************************************************/
     public Fracciones(int numerador, int denominador) {
         super();
         this.numerador = numerador;
