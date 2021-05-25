@@ -32,7 +32,7 @@ public class Fracciones {
         return denominador;
     }
 
-
+    /*Programando simplificacion de las fracciones*/
     public void setNumerador(int numerador) {
         this.numerador = numerador;
     }
